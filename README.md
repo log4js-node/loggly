@@ -28,7 +28,7 @@ shape `{ tags: [] }` so that it's possible to add additional tags in a normal lo
 log4js.configure({
   appenders: {
     loggly: {
-      type: 'loggly',
+      type: '@log4js-node/loggly',
       token: 'somethinglong',
       subdomain: 'your.subdomain',
       tags: [ 'tag1' ]
