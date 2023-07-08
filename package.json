@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "debug": "^3.1.0",
-    "node-loggly-bulk": "^2.2.1"
+    "node-loggly-bulk": "^4.0.1"
   },
   "devDependencies": {
     "@log4js-node/sandboxed-module": "^2.1.1",
